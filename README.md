@@ -6,7 +6,7 @@ volume, and hardware sidetone.
 
 Download the universal app for Apple silicon and Intel Macs from
 [the latest release](https://github.com/tehss1/seiren-status-releases/releases/latest).
-macOS 14 or later is required. Extract the ZIP, install the app in Applications,
+macOS 14 or later is required. Quit any running Seiren Status instance, extract the ZIP, install the app in Applications,
 open it, and grant Input Monitoring access when prompted.
 
 Version 0.3.0 adds automatic updates. Install it manually once if using 0.2.2.
